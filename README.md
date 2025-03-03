@@ -24,5 +24,6 @@ This app is deployed on **Streamlit Community Cloud**. You can access it [here](
 ---
 
 ### **Author**
-Developed by Jaweria Amir(https://github.com/Jiamir), Farwa Attaria (https://github.com/farwaattaria), Mah Jabeen (https://github.com/mahjabeenhere)
+Developed by [Jaweria Amir](https://github.com/Jiamir), [Farwa Attaria](https://github.com/farwaattaria), [Mah Jabeen](https://github.com/mahjabeenhere)
+
 
